@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jk-c66/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/jkc66/count.svg?"  />
 </div>
 
 ###
@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jk-c66/jk-c66/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jkc66/jkc66/output/snake.svg" alt="Snake animation" />
 
 ###
