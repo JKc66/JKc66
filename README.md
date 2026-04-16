@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jkc66/count.svg?"  />
+  <img src="https://count.getloli.com/@jkc66?theme=minecraft&padding=1" alt="Minecraft Counter" />
 </div>
 
 ###
