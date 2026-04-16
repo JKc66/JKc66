@@ -15,6 +15,7 @@
 ###
 
 <div align="center">
+  <p>⛏️ <b>Explorers who wandered in:</b></p>
   <img src="https://count.getloli.com/@jkc66?theme=minecraft&padding=1" alt="Minecraft Counter" />
 </div>
 
